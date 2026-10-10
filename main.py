@@ -62,11 +62,14 @@ def tracker():
         if result > 0:
             result = (Fore.GREEN + "+" + str(result) + Style.RESET_ALL)
             print(f"Résumé de session : {result} MMR")
+            input("Appuie sur une touche pour fermer\n--> ")
         elif result < 0:
             result = (Fore.RED + str(result) + Style.RESET_ALL)
             print(f"Résumé de session : {result} MMR")
+            input("Appuie sur une touche pour fermer\n--> ")
         elif result == 0:
             print("Session NULLE !")
+            input("Appuie sur une touche pour fermer\n--> ")
 
 
     else:
