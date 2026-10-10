@@ -86,6 +86,7 @@ def départ():
         clear()
         logs = load_data()
         print(json.dumps(logs, indent=4))
+        input("Appuie sur une touche pour fermer\n--> ")
     else:
         print("choix invalide, le script va se relancer")
         time.sleep(2)
