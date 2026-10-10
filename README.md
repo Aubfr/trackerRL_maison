@@ -1,0 +1,2 @@
+Petit script pour voir mes sessions Rocket League, pour l'installation faut juste bien penser à mettre l'executable dans un dossier car un .json y sera créé également.
+Btw l'icône n'a aucun rapport avec le projet
