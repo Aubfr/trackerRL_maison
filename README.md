@@ -1,3 +1,4 @@
+<img width="256" height="256" alt="Ph03nyx-Super-Mario-Luma-Yellow 256" src="https://github.com/user-attachments/assets/b07a251c-9a45-4b42-a568-c44a5f7d2e67" />
 # Petit script pour voir mes sessions Rocket League, pour l'installation faut juste bien penser à mettre l'executable dans un dossier car un .json y sera créé également.
 ## Btw l'icône n'a aucun rapport avec le projet
 
